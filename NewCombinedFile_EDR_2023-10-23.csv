@@ -1,0 +1,15 @@
+name,date,height,weight,BMI,Source,bmi
+Jack Smith,4/1/2019,185,91,27.0,CSV_test1_EDR.csv,
+Jack Black,4/2/2019,183,91,27.0,CSV_test1_EDR.csv,
+Brock Bricks,4/10/2019,185,95,28.0,CSV_test2_EDR.csv,
+Jack Brack,6/7/2019,172,91,31.0,CSV_test2_EDR.csv,
+Rock Royden,2019-05-02 00:00:00,160,52,20.0,Copy of EXCELtest2_EDR.xlsx,
+Brandon Snads,2019-10-02 00:00:00,175,80,26.0,Copy of EXCELtest2_EDR.xlsx,
+Jen Smith,2019-05-02 00:00:00,153,50,21.0,Copy of EXCELtest_EDR.xlsx,
+Sam Smith,2019-01-02 00:00:00,160,55,22.0,Copy of EXCELtest_EDR.xlsx,
+Jane Jackson,09/03/2019,172,74,,JSONtest2_EDR.json,25
+Becky Jackson,04/03/2019,165,70,,JSONtest3_EDR.json,26
+Jane Smith,09/02/2019,170,75,,JSONtest_EDR.json,26
+John Smithe,03/08/2019,185,101,,XMLtest2_EDR.xml,30
+Brett Smithe,05/08/2019,179,99,,XMLtest3_EDR.xml,31
+John Smith,02/08/2019,180,100,,XMLtest_EDR.xml,31
